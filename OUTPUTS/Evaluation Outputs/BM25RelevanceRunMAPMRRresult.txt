@@ -1,0 +1,2 @@
+MAP for BM25RelevanceRun is: 0.3393895621801066
+MRR for BM25RelevanceRun is: 0.6776661706349207

@@ -1,0 +1,2 @@
+MAP for LuceneOutput is: 0.22924365443519173
+MRR for LuceneOutput is: 0.5773108691077441

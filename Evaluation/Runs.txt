@@ -1,0 +1,8 @@
+TFIDFRun.txt
+StoppedTFIDFRun.txt
+StoppedQLRun.txt
+StoppedBM25RelevanceRun.txt
+QLRun.txt
+BM25RelevanceRun.txt
+PseudoRelBM25Run.txt
+LuceneOutput.txt

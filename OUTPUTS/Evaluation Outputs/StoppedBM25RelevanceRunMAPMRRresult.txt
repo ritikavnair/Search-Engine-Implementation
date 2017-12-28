@@ -1,0 +1,2 @@
+MAP for StoppedBM25RelevanceRun is: 0.33277416385772984
+MRR for StoppedBM25RelevanceRun is: 0.646937003968254
